@@ -1,7 +1,7 @@
 ### Olá eu sou o Wellington Camargo Dias ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wellington-camargo-dias-56341469)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSIRA_SEU_INSTAGRAM_AQUI)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-camargo-dias-56341469)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellingtoncamargodias/)
 
 ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonCamargoDias0911&show_icons=true&theme=radical)
 
