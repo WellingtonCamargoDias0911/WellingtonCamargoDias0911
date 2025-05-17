@@ -11,17 +11,24 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>  
 
-👋 Welcome to my GitHub repository!  
+👋 Welcome to my GitHub profile!
 
-I am passionate about programming and always eager to learn new things. I have completed the **Python 3 course from Basic to Advanced**, where I developed practical skills in various areas of the language, including:  
+I'm currently studying to become a **Fullstack Developer**, combining my interest in both **front-end and back-end** technologies.
 
-- **Basic, Intermediate, and Advanced Python**: From programming logic to object-oriented programming and design patterns.  
-- **Automation and Web Development**: Building websites and APIs using Django, as well as practical automation with Selenium and PySide6 for graphical interfaces.  
-- **Data Analysis and Databases**: Experience with relational databases like SQLite and MySQL, along with best practices in SQL.  
-- **Automated Testing and Regular Expressions**: Creating robust and reliable scripts using TDD and RegEx.  
+I have a solid foundation in:
+- **Python programming**  
+- **Web fundamentals**: HTML5, CSS3 and basic JavaScript  
 
-💡 Here on GitHub, I share projects that reflect this learning journey, focusing on practical solutions and experimentation.  
+And I'm currently learning more about:
+- **How to build complete web applications**  
+- **Creating APIs** and working with **databases**  
+- **Modern front-end tools and frameworks**
 
-📚 I'm always improving my skills and open to collaborations and feedback. Feel free to explore the repositories and reach out! 😊  
+💡 Here on GitHub, I share my personal projects and learning progress as I explore the world of programming.  
+📚 I'm always looking to grow, learn, and connect with other developers. Feel free to explore my repositories and follow my journey! 😊
+
