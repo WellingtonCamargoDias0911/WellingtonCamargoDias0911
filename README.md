@@ -1,34 +1,23 @@
-### Hello, I'm Wellington Camargo Dias ✋
+### Olá, sou o Wellington Camargo Dias 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-camargo-dias-56341469)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellingtoncamargodias/)  
+**Desenvolvedor Fullstack em formação | Python/Django + React • Automação de processos para o setor financeiro**
 
-![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonCamargoDias0911&show_icons=true&theme=radical)  
+Atuo na área financeira do **Grupo Grafo Capital** (assessoria de investimentos) e, dentro da empresa, também assumi a frente de **automação e desenvolvimento de sistemas internos** — unindo conhecimento de negócio com código.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonCamargoDias0911)](https://github.com/anuraghazra/github-readme-stats)  
+#### 🚀 O que já construí
+- **Sistema ERP interno** para a assessoria: gestão de clientes, carteiras e processos (Python/Django + React/TypeScript)
+- **Automação de atendimento via WhatsApp** integrada a CRM, para distribuição de leads e disparos
+- **Dashboard de operações de futuros (Binance)** para acompanhamento de trades em tempo real
+- **Landing pages e campanhas** para captação de leads (Meta Ads/Instagram)
 
-### Technologies I Use Daily  
+> Boa parte desses projetos é privada por serem sistemas de produção da empresa onde trabalho. Deixei um resumo com prints e descrição técnica no repositório fixado **[portfolio-projetos](../../WellingtonCamargoDias0911/portfolio-projetos)**.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>  
+#### 🎓 Formação
+- Tecnologia em Análise e Desenvolvimento de Sistemas — **Uninter** (em andamento, desde 10/2026)
+- Aprofundando Python, Django/DRF, React e TypeScript por conta própria e em cursos complementares (Udemy)
 
-👋 Welcome to my GitHub profile!
+#### 🛠️ Tecnologias
+`Python` `Django` `Django REST Framework` `React` `TypeScript` `Next.js` `JavaScript` `GraphQL` `HTML/CSS` `Git`
 
-I'm currently studying to become a **Fullstack Developer**, combining my interest in both **front-end and back-end** technologies.
-
-I have a solid foundation in:
-- **Python programming**  
-- **Web fundamentals**: HTML5, CSS3 and basic JavaScript  
-
-And I'm currently learning more about:
-- **How to build complete web applications**  
-- **Creating APIs** and working with **databases**  
-- **Modern front-end tools and frameworks**
-
-💡 Here on GitHub, I share my personal projects and learning progress as I explore the world of programming.  
-📚 I'm always looking to grow, learn, and connect with other developers. Feel free to explore my repositories and follow my journey! 😊
-
+#### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/wellington-camargo-a7346132b/)
